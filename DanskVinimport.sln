@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DanskVinimport", "DanskVinimport\DanskVinimport.csproj", "{7E231109-A84B-4122-8D20-6111827C25FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E231109-A84B-4122-8D20-6111827C25FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E231109-A84B-4122-8D20-6111827C25FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E231109-A84B-4122-8D20-6111827C25FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E231109-A84B-4122-8D20-6111827C25FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B233EC9-F912-4AC1-B36C-EAC181828769}
+	EndGlobalSection
+EndGlobal
